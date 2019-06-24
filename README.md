@@ -1,4 +1,5 @@
-# jrvs_bootcam
+# jrvs_bootcamp
+
 ## Introduction
 CLuster monitor agent helps an infrastructure manager to keep track of the hardware specifications and resource usages such as CPU idle time, free memory, disk avaliability etc of a linux cluster. It also enables to store the above vital inforamation that the manager wants to keep track in form RDBMS database.On this database the manager can perform required analytics to gain insights and take suitable action.
 
