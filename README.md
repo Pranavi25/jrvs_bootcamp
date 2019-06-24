@@ -5,9 +5,7 @@ CLuster monitor agent helps an infrastructure manager to keep track of the hardw
 
 ## Architecture and Design
 Design
-[Please click on the link to view the architecture] 
-(https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=cluster-diagram.drawio#R3ZhNc5swEIZ%2FDcd2LIQNHP2RxO2k07Q%2BJDnKsAG12GKEHEN%2FfcUgvixcnAz2OD1Z%2B3olwbPvSGsbeL5J7ziJw2%2FMh8gwR35q4IVhmgi7lvzIlaxQ7JFbCAGnvkqqhRX9A0ocKXVHfUhaiYKxSNC4LXpsuwVPtDTCOdu3015Y1N41JgFowsojka4%2BUl%2BEheqYdq0vgQZhuTOaqPfbkDJZvUkSEp%2FtGxK%2BMfCcMyaK0SadQ5TDK7kU826PfFs9GIetOGXCI%2Ft6O%2F3lzOciiuwvwRSWP8UntcoriXbqhZcsEVKZqocWWUliH1IBq5h4ebyX1TbwLBSbSEZIDkkSF%2FxfaApyy5n%2BfOVmwAWkDUk97x2wDQieyRT1raXQKe8gV8X7uhLmSGlhowqVSFT1g2rpGpAcKEZv4GUe4zW7Bl7Ve5fAdF7I7OBViYPzwsd4za%2BBF3b6DYZwFzB8LmCWBuxh9eNeKou1RkyeKHE%2B9LKIbn3gEkoPxDXbyUT%2Ffl0JxPsd8Fz9vhNyFVD6AHDRZNyC2%2BXGSQdb51xobQ2tRhS2%2FjS%2FNHKoEUkS6kkWiSBc6HIDq4TEs6dm8CyD0Wd7XMaLHMqoijIVHcUstwxA%2FOvgdopE8Fv3l16NBu1xB%2B1S4xARQV%2Fbt15XCdQOD4xuxfGTx3QPqpiwHfdAzWreUgcLIbu9EEYHCxVktIVkfUjWSIvzhETzTAXm%2FTZyLm%2BjHhdBSsVTY1zMGquonpQHvc4rCtV%2FpPc61Loqgx6c9Pi9%2FqzauTf6cyj3ued3n7JO6T90qvsqxz03DTew%2B6wT3Wf%2Bn%2B5zDxoW67LuQ%2FodKhuzMP%2B9EIDasqtDiTnzIElOaFDO14%2FIYrbYOXo7Ync44JDwYO0I0i%2BSD8PSbaPEHa3dZVnqx%2BKHYWkh3IJZkRsepgzr%2FxuKM6H%2B1wbf%2FAU%3D)
-
+![architecture](https://user-images.githubusercontent.com/51927373/60047129-f1f2e900-9696-11e9-80e1-08f62476b2e5.JPG)
 Description of host_info table
 This table stores information regarding computer hardware such as CPU number, CPU architecture, CPU model, L2 cache, CPU mhz, timestamp of the host. 
 
