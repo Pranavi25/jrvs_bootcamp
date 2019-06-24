@@ -8,10 +8,6 @@ Design
 ![architecture](https://user-images.githubusercontent.com/51927373/60047129-f1f2e900-9696-11e9-80e1-08f62476b2e5.JPG)
 
 
-
-
-
-
 Description of host_info table
 This table stores information regarding computer hardware such as CPU number, CPU architecture, CPU model, L2 cache, CPU mhz, timestamp of the host. 
 
