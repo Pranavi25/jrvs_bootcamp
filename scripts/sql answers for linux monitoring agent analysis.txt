@@ -1,0 +1,9 @@
+SELECT ROW_NUMBER() OVER(PARTITION BY cpu_number ORDER BY total_mem) AS cpu_number, 
+       id,
+       total_mem FROM host_info;
+
+SELECT host_id, 
+       hostname,
+       total_mem, ((total_mem-memory_free)) as used_memory_percentage 
+       FROM host_usage u inner join host_info i on u.host_id = i.id 
+       WHERE MOD(TO_CHAR(i.timestamp,'MI')::int,5)=0;
